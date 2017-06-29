@@ -1,2 +1,0 @@
-# superhumansports.github.io
-competitionwebsite
